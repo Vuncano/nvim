@@ -69,4 +69,6 @@ return require('packer').startup(function(use)
     use 'ThePrimeagen/vim-be-good'
 
     use 'lervag/vimtex'
+
+    use 'lewis6991/gitsigns.nvim'
 end)
