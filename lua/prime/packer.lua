@@ -71,4 +71,13 @@ return require('packer').startup(function(use)
     use 'lervag/vimtex'
 
     use 'lewis6991/gitsigns.nvim'
+
+-- mini plugin
+use 'nvim-tree/nvim-web-devicons'
+use 'echasnovski/mini.statusline'
+
+use 'echasnovski/mini.tabline'
+
+use 'echasnovski/mini.comment'
+
 end)

@@ -134,6 +134,21 @@ _G.packer_plugins = {
     path = "/home/patrike/.local/share/nvim/site/pack/packer/start/material.nvim",
     url = "https://github.com/marko-cerovac/material.nvim"
   },
+  ["mini.comment"] = {
+    loaded = true,
+    path = "/home/patrike/.local/share/nvim/site/pack/packer/start/mini.comment",
+    url = "https://github.com/echasnovski/mini.comment"
+  },
+  ["mini.statusline"] = {
+    loaded = true,
+    path = "/home/patrike/.local/share/nvim/site/pack/packer/start/mini.statusline",
+    url = "https://github.com/echasnovski/mini.statusline"
+  },
+  ["mini.tabline"] = {
+    loaded = true,
+    path = "/home/patrike/.local/share/nvim/site/pack/packer/start/mini.tabline",
+    url = "https://github.com/echasnovski/mini.tabline"
+  },
   ["null-ls.nvim"] = {
     loaded = true,
     path = "/home/patrike/.local/share/nvim/site/pack/packer/start/null-ls.nvim",
@@ -153,6 +168,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/patrike/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
     url = "https://github.com/nvim-treesitter/nvim-treesitter"
+  },
+  ["nvim-web-devicons"] = {
+    loaded = true,
+    path = "/home/patrike/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+    url = "https://github.com/nvim-tree/nvim-web-devicons"
   },
   ["packer.nvim"] = {
     loaded = true,
