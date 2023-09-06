@@ -23,3 +23,5 @@ vim.opt.termguicolors = true
 vim.opt.scrolloff = 30
 
 vim.opt.updatetime = 50
+
+vim.opt.autochdir = true
